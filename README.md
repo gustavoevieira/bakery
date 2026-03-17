@@ -62,7 +62,7 @@ This is a **static** project and is very easy to set up!
 ### Setup
 1. **Clone the Repository:**
     ```bash
-    git clone [https://github.com/gustavoevieira/doceria-doce-sabor.git](https://github.com/gustavoevieira/doceria-doce-sabor.git)
+    git clone [https://github.com/gustavoevieira/bakery.git](https://github.com/gustavoevieira/bakery.git)
     ```
     Navigate to the project folder:
     ```bash
